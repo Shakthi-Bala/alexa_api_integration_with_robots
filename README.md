@@ -31,3 +31,11 @@ Select "Add Intent" and name it as "CaptureSpeechIntent", Now fill the intent se
 Note: Select HTTPS
 
 ## Step8: In a seperate terminal, run the python script and run ngrok in port 5000 in another terminal and you can interact with alexa online now, This can written as a service node in ros and used as Voice asssitant.
+
+# This is to use actual alexa:
+## Step1: Once the steps above are done, Login with same account in Amazon alexa App.
+## Step2: Click enable
+![WhatsApp Image 2026-01-20 at 5 30 18 PM](https://github.com/user-attachments/assets/fa3a0e5e-6ec7-491c-b3f2-34a3c7dc8b23)
+ skill 
+
+Now alexa will communicate while indent is passed, Refer the video
