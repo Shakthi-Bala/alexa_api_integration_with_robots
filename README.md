@@ -30,7 +30,12 @@ Select "Add Intent" and name it as "CaptureSpeechIntent", Now fill the intent se
 ## Step7: Click "Build Skill", Then create your own ngrok account, and paste the url 
 Note: Select HTTPS
 
-## Step8: In a seperate terminal, run the python script and run ngrok in port 5000 in another terminal and you can interact with alexa online now, This can written as a service node in ros and used as Voice asssitant.
+## Step8: Add the skill ID in the python script
+
+## Step9: In a seperate terminal, run the python script and run ngrok in port 5000 in another terminal and you can interact with alexa online now, This can written as a service node in ros and used as Voice asssitant.
+
+
+#Happy learning 📚✨
 
 # This is to use actual alexa:
 ## Step1: Once the steps above are done, Login with same account in Amazon alexa App.
